@@ -5,10 +5,11 @@ Kuznetsov, V. V., et al. "Interpretable feature generation in ECG using a variat
 
 ## 1. Install necessary packages:
 
-conda create --name shap_exercise python=3.11
-conda activate shap_exercise
-python -m pip install uv
-python -m uv pip install shap joblib numpy==1.26.4 pandas seaborn matplotlib xgboost scikit-learn onnxruntime
+
+```conda create --name shap_exercise python=3.11```
+```conda activate shap_exercise```
+```python -m pip install uv```
+```python -m uv pip install shap joblib numpy==1.26.4 pandas seaborn matplotlib xgboost scikit-learn onnxruntime```
 
 ## 2. Open the exercise.ipynb file.
 
