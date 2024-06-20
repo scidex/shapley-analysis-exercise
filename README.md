@@ -5,6 +5,11 @@ Kuznetsov, V. V., et al. "Interpretable feature generation in ECG using a variat
 
 ## 1. Install necessary packages:
 
+Go to desired folder:
+
+```git clone git@github.com:scidex/shapley-analysis-exercise.git```
+
+Create virtual environment:
 
 ```conda create --name shap_exercise python=3.11```
 
